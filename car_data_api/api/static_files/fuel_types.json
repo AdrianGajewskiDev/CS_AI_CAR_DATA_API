@@ -1,0 +1,38 @@
+[
+    {
+        "id": "petrol",
+        "name": "Petrol"
+    },
+    {
+        "id": "petrol_cng",
+        "name": "Petrol_CNG"
+    },
+    {
+        "id": "petrol_lpg",
+        "name": "Petrol_LPG"
+    },
+    {
+        "id": "diesel",
+        "name": "Diesel"
+    },
+    {
+        "id": "electric",
+        "name": "Electric"
+    },
+    {
+        "id": "ethanol",
+        "name": "Etanol"
+    },
+    {
+        "id": "hybrid",
+        "name": "Hybrid"
+    },
+    {
+        "id": "hybrid_plugin",
+        "name": "Hybrid_Plug_in"
+    },
+    {
+        "id": "hydrogen",
+        "name": "Hydrogen"
+    }
+]

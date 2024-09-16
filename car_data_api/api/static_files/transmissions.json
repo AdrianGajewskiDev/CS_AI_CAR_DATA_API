@@ -1,0 +1,10 @@
+[
+    {
+        "id": "manual_transmission",
+        "name": "Manual"
+    },
+    {
+        "id": "automatic_transmission",
+        "name": "Automatic"
+    }
+]
