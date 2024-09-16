@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "Car data API"
+version = "0.1.0"
+description = ""
+authors = ["Adrian Gajewski <adrian.gajewski.projectx@gmail.com>"]
+readme = "README.md"
+packages = [{include = "car_data_api"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+mangum = "^0.17.0"
+fastapi = "^0.114.0"
+pydantic = "^2.9.0"
+
+[tool.poetry.dev-dependencies]
+flake8 = "^6.0.0"
+black = "^23.1.0"
+isort = "^5.12.0"
+mypy = "^1.1.1"
+pytest = "^7.2.2"
+pytest-cov = "^4.0.0"
+mock = "^5.0.2"
+pycodestyle = "^2.10.0"
+pytest-asyncio = "^0.21.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.isort]
+profile = "black"
