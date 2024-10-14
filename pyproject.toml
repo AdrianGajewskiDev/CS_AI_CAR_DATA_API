@@ -9,8 +9,9 @@ packages = [{include = "car_data_api"}]
 [tool.poetry.dependencies]
 python = "^3.12"
 mangum = "^0.17.0"
-fastapi = "^0.114.0"
+fastapi = "^0.115.2"
 pydantic = "^2.9.0"
+cs-ai-common = "^0.1.7"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^6.0.0"

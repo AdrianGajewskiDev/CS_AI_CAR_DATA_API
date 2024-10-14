@@ -2,7 +2,7 @@ import json
 from typing import List
 from fastapi import HTTPException
 from car_data_api.api.clients.db_client import DbClient
-from car_data_api.api.logging.internal_logger import InternalLogger
+from cs_ai_common.logging.internal_logger import InternalLogger
 from car_data_api.api.models.response.generations_response_model import GenerationsResponseModel
 import ast
 

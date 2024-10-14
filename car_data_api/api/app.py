@@ -3,7 +3,7 @@ import os
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from car_data_api.api.middleware.catch_exceptions_middleware import catch_exceptions_middleware
+from cs_ai_common.middlewares.exception_handler import catch_exceptions_middleware
 from car_data_api.api.endpoints.car_data_endpoints import car_data_router
 
 app = FastAPI()
