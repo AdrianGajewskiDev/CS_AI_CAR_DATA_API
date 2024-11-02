@@ -1,0 +1,38 @@
+{
+    "first_owner": [
+        "no",
+        "yes"
+    ],
+    "first_owner_from_new": [
+        "No",
+        "Yes"
+    ],
+    "accident_free": [
+        "No",
+        "Yes"
+    ],
+    "registered_in_poland": [
+        "No",
+        "Yes"
+    ],
+    "serviced_at_authorized_service_center": [
+        "No",
+        "Yes"
+    ],
+    "registered_as_a_vintage_car": [
+        "No",
+        "Yes"
+    ],
+    "tuning": [
+        "No",
+        "Yes"
+    ],
+    "truck_homologation": [
+        "No",
+        "Yes"
+    ],
+    "warranty": [
+        "No",
+        "Yes"
+    ]
+}

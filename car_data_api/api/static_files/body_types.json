@@ -1,0 +1,13 @@
+{
+    "body_types": [
+        "small_car",
+        "city_cars",
+        "coupe",
+        "convertible",
+        "sedan",
+        "kombi",
+        "compact",
+        "minivan",
+        "suv"
+    ]
+}

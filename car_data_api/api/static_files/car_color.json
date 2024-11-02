@@ -1,0 +1,21 @@
+{
+    "car_colors": [
+        "white",
+        "light_blue",
+        "burgundy",
+        "brown",
+        "beige",
+        "black",
+        "red",
+        "purple",
+        "navy_blue",
+        "blue",
+        "orange",
+        "silver",
+        "gray",
+        "green",
+        "gold",
+        "yellow",
+        "other_color"
+    ]
+}

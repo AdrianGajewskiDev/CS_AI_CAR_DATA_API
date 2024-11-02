@@ -1,0 +1,227 @@
+{
+    "audio_and_multimedia": {
+        "checks": [
+            "apple_carplay",
+            "android_auto",
+            "interface_bluetooth",
+            "radio",
+            "hands_free_kit",
+            "usb",
+            "wireless_charging_of_devices",
+            "satellite_navigation_system",
+            "sound_system",
+            "head_up_display",
+            "touch_screen",
+            "control_vehicle_functions_by_voice",
+            "internet_access"
+        ]
+    },
+    "compfort": {
+        "nested": {
+            "air_conditioning": [
+                "automatic_air_conditioning",
+                "dual_zone_air_conditioning",
+                "three_zone_air_conditioning",
+                "four_zone_air_conditioning",
+                "manual_air_conditioning"
+            ],
+            "cabriolet": [
+                "material_roof",
+                "plastic_roof",
+                "hardtop"
+            ],
+            "sun_shield": [
+                "manual_side_sun_shield",
+                "electric_side_sun_shield"
+            ],
+            "roof": [
+                "panoramic_roof",
+                "sunroof",
+                "electric_sunroof",
+                "manual_sunroof"
+            ],
+            "upholstery": [
+                "leather_upholstery",
+                "material_upholstery",
+                "alcantara_upholstery",
+                "partially_leather_upholstery"
+            ]
+        },
+        "checks": [
+            "electrically_adjustable_drivers_seat",
+            "electrically_adjustable_passenger_seat",
+            "heated_drivers_seat",
+            "heated_passenger_seat",
+            "electronically_adjustable_lumbar_support_driver",
+            "electronically_adjustable_lumbar_support_passenger",
+            "ventilated_front_seats",
+            "front_seats_with_massage_function",
+            "seat_with_memory_setting",
+            "sport_front_seats",
+            "heated_rear_seats",
+            "ventilated_rear_seats",
+            "rear_seats_with_massage_function",
+            "front_armrests",
+            "rear_armrests",
+            "leather_steering_wheel",
+            "sport_steering_wheel",
+            "steering_wheel_with_radio_control",
+            "electronically_adjustable_steering_column",
+            "multifunction_steering_wheel",
+            "heated_steering_wheel",
+            "gear_shift_on_the_steering_wheel",
+            "leather_finished_gear_lever",
+            "digital_key",
+            "keyless_entry",
+            "keyless_go",
+            "engine_start_without_keys",
+            "parking_heater",
+            "automatic_heating_control",
+            "rain_sensor",
+            "heated_front_windshield",
+            "wipers",
+            "electric_front_windows",
+            "electric_rear_windows",
+            "tinted_rear_windows",
+            "electrically_opening_roof",
+            "electrically_opening_roof_with_remote_control",
+            "tow_hook"
+        ]
+    },
+    "electric_vehicles": {
+        "checks": [
+            "energy_recovery_system",
+            "fast_charging_function",
+            "charging_cable"
+        ]
+    },
+    "driver_assist": {
+        "nested": {
+            "crusie_control": [
+                "adaptive_cruise_control",
+                "cruise_control",
+                "predictive_cruise_control"
+            ],
+            "lamp_type": [
+                "bi-xenon_headlights",
+                "xenon_headlights",
+                "led_headlights",
+                "laser_headlights"
+            ]
+        },
+        "checks": [
+            "front_distance_control_(during_parking)",
+            "rear_distance_control_(during_parking)",
+            "park_assistant",
+            "independent_parking_system",
+            "360_panoramic_camera",
+            "rear_parking_camera",
+            "electrically_adjustable_side_mirrors",
+            "heated_side_mirrors",
+            "electrically_folding_side_mirrors",
+            "side_mirror_camera",
+            "blind_spot_sensor",
+            "active_lane_change_assistant",
+            "lane_assist",
+            "distance_control_from_the_preceding_vehicle",
+            "speed_limiter",
+            "brake_assist",
+            "cornering_assistant",
+            "traction_control",
+            "automatic_hill_descent_control",
+            "hill_holder",
+            "active_speed_limit_recognition",
+            "traffic_sign_recognition_system",
+            "intersection_collision_prevention_assistant",
+            "autonomous_steering_system",
+            "high_beam_assistant",
+            "cornering_lights",
+            "adaptive_lighting",
+            "dynamic_cornering_lights",
+            "twilight_sensor",
+            "headlight_washers",
+            "daytime_running_lights",
+            "led_daytime_running_lights",
+            "fog_lights",
+            "led_fog_lights",
+            "led_rear_lights",
+            "home_lighting",
+            "led_interior_lighting",
+            "start/stop_system",
+            "electronic_tire_pressure_control",
+            "electric_parking_brake",
+            "power_steering",
+            "differential_lock",
+            "adjustable_central_differential",
+            "traffic_jam_assistant"
+        ]
+    },
+    "tuning": {
+        "nested": {
+            "rims": [
+                "15",
+                "16",
+                "17",
+                "18",
+                "19",
+                "20",
+                "21>=",
+                "steel_rims"
+            ],
+            "tyres": [
+                "summer_tyres",
+                "winter_tyres",
+                "all_season_tyres",
+                "off_road_tyres"
+            ]
+        },
+        "checks": [
+            "runflat_tyres",
+            "comfort_suspension",
+            "electronic_suspension_characteristics_control",
+            "sport_suspension",
+            "adjustable_suspension",
+            "pneumatic_suspension",
+            "hydropneumatic_suspension",
+            "ceramic_composite_brakes",
+            "particulate_filter"
+        ]
+    },
+    "safety": {
+        "checks": [
+            "abs",
+            "esp",
+            "electronic_brake_force_distribution",
+            "brake_assist_system",
+            "city_emergency_brake_assistant",
+            "pedestrian_protection_emergency_brake_system",
+            "active_emergency_brake_assistant",
+            "collision_warning_system",
+            "hearing_protection_system_in_case_of_collision",
+            "rear_collision_protection_system",
+            "side_collision_protection_system",
+            "rear_cross_traffic_alert",
+            "engine_sound_emission_system_(avas)",
+            "driver_fatigue_detection_system",
+            "break_recommendation_system",
+            "active_driver_condition_monitoring_system",
+            "lane_assist",
+            "collision_mitigation_system",
+            "accident_notification_system",
+            "driver_airbag",
+            "passenger_airbag",
+            "driver_knee_airbag",
+            "passenger_knee_airbag",
+            "front_curtain_airbags",
+            "central_airbag",
+            "rear_frontal_airbags",
+            "driver_side_airbag",
+            "front_side_airbags",
+            "rear_curtain_airbags",
+            "rear_side_airbags",
+            "rear_cross_curtain_airbag",
+            "seat_belt_airbag",
+            "isofix_(child_seat_mounting_points)"
+        ]
+    }
+}

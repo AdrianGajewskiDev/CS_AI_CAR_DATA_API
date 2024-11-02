@@ -1,0 +1,42 @@
+{
+    "steering_wheel": [
+            "left",
+            "right"
+    ],
+    "drive": [
+        "front_wheel_drive",
+        "rear_wheel_drive",
+        "4_4_const",
+        "4_4_switchable_automatic",
+        "4_4_switchable_manual"
+    ],
+    "color_type": [
+        "metallic",
+        "pearl",
+        "matte"
+    ],
+    "number_of_seats": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+    ],
+    "electric": {
+        "text": [
+            "autonomy",
+            "battery_capacity",
+            "consumption"
+        ],
+        "nested": {
+            "battery_ownership": [
+                "battery_included",
+                "battery_rented"
+            ]
+        }
+    }
+}
